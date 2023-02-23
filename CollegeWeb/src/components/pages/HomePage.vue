@@ -74,7 +74,7 @@
       />
       <profile-card
         name="Shri Vaibhav D. Tiwari "
-        position="Peon"
+        position="Junior Clerk"
         :url="img4"
       />
     </div>
